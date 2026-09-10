@@ -1,6 +1,6 @@
 # Olá, eu sou Samuel Vieira! 👋
 
-### Designer Gráfico | UX/UI Design | Motion Designer | Estudando ADS
+### Designer Gráfico | Motion Designer | Estudando ADS | Estudando UX/UI Design
 
 Sou um profissional criativo dedicado ao design gráfico, UX/UI design e motion design, especializado no desenvolvimento de identidades visuais e na produção de projetos audiovisuais dinâmicos. Tenho grande facilidade e foco em edição de imagens digitais e composição fotográfica avançada.
 
