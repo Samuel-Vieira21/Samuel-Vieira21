@@ -2,7 +2,7 @@
 
 ### Designer Gráfico | Motion Designer | Estudando ADS | Estudando UX/UI Design
 
-Sou um profissional criativo dedicado ao design gráfico, UX/UI design e motion design, especializado no desenvolvimento de identidades visuais e na produção de projetos audiovisuais dinâmicos. Tenho grande facilidade e foco em edição de imagens digitais e composição fotográfica avançada.
+Sou um profissional criativo dedicado ao design gráfico, UX/UI design e motion design, especializado no desenvolvimento de identidades visuais, composição de peças visuais para diversas plataformas e na produção de projetos audiovisuais.
 
 Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
@@ -12,13 +12,12 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
 * **Motion Design:** Animação e criação de projetos audiovisuais.
 * **Identidade Visual:** Desenvolvimento de marcas e sistemas visuais consistentes.
-* **Manipulação de Imagem & Composição:** Edição digital avançada, ambientação de produtos.
+* **Manipulação de Imagem e Composição:** Edição digital avançada e composição de peças visuais.
 * **Softwares:**
-  * Adobe After Effects
-  * Adobe Premiere Pro
-  * Adobe Illustrator
+  * Figma
   * Adobe Photoshop
-  * Adobe InDesign
+  * Adobe Illustrator
+  * Adobe After Effects
 
 ---
 
