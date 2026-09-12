@@ -2,7 +2,7 @@
 
 ### Designer Gráfico | Motion Designer | Estudando ADS | Estudando UX/UI Design
 
-Sou um profissional criativo dedicado ao design gráfico, UX/UI design e motion design, especializado no desenvolvimento de identidades visuais, composição de peças visuais para diversas plataformas e na produção de projetos audiovisuais.
+Sou um profissional criativo dedicado ao design gráfico, UX/UI design e motion design, especializado no desenvolvimento de identidades visuais, composição de peças gráficas para diversas plataformas digitais e na produção de projetos audiovisuais.
 
 Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
