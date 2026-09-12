@@ -1,4 +1,4 @@
-# Olá, eu sou Samuel Vieira! 👋
+# Olá, eu sou Samuel Vieira!
 
 ### Designer Gráfico | Motion Designer | Estudando ADS | Estudando UX/UI Design
 
