@@ -43,5 +43,6 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
 * 🌐 **Portfólio:** [samuelvieiradesign.com](http://samuelvieiradesign.com/)
 * 💼 **LinkedIn:** [Samuel Vieira](https://www.linkedin.com/in/samuel-vieira-1058271b6/)
+* 🖥️ **Dev.To:** [Samuel Vieira](https://dev.to/samuelvieira21)
 * ✉️ **E-mail:** [samuelvieiradesigner@hotmail.com](mailto:samuelvieiradesigner@hotmail.com)
 * 📱 **WhatsApp / Telefone:** (16) 99303-8969
