@@ -16,7 +16,7 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
   * Adobe After Effects
   * Figma
  
- * **Tecnologias:**
+* **Tecnologias:**
   * HTML5
   * CSS3
   * JavaScript
