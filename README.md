@@ -10,14 +10,14 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
 ## 🛠 Habilidades e Ferramentas
 
-* **Motion Design:** Animação e criação de projetos audiovisuais.
 * **Identidade Visual:** Desenvolvimento de marcas e sistemas visuais consistentes.
 * **Manipulação de Imagem e Composição:** Edição digital avançada e composição de peças visuais.
+* **Motion Design:** Animação e criação de projetos audiovisuais.
 * **Softwares:**
-  * Figma
   * Adobe Photoshop
   * Adobe Illustrator
   * Adobe After Effects
+  * Figma
 
 ---
 
@@ -45,4 +45,4 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 * 💼 **LinkedIn:** [Samuel Vieira](https://www.linkedin.com/in/samuel-vieira-1058271b6/)
 * 🖥️ **Dev.To:** [Samuel Vieira](https://dev.to/samuelvieira21)
 * ✉️ **E-mail:** [samuelvieiradesigner@hotmail.com](mailto:samuelvieiradesigner@hotmail.com)
-* 📱 **WhatsApp / Telefone:** (16) 99303-8969
+* 📱 **WhatsApp / Telefone:** (16) 99162-8995
