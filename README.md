@@ -10,14 +10,21 @@ Atualmente estou Cursando Análise e Desenvolvimentos de Sistemas.
 
 ## 🛠 Habilidades e Ferramentas
 
-* **Identidade Visual:** Desenvolvimento de marcas e sistemas visuais consistentes.
-* **Manipulação de Imagem e Composição:** Edição digital avançada e composição de peças visuais.
-* **Motion Design:** Animação e criação de projetos audiovisuais.
 * **Softwares:**
   * Adobe Photoshop
   * Adobe Illustrator
   * Adobe After Effects
   * Figma
+ 
+ * **Tecnologias:**
+  * HTML5
+  * CSS3
+  * JavaScript
+  * Python
+
+* **Identidade Visual:** Desenvolvimento de marcas e sistemas visuais consistentes.
+* **Manipulação de Imagem e Composição:** Edição digital avançada e composição de peças visuais.
+* **Motion Design:** Animação e criação de projetos audiovisuais.
 
 ---
 
